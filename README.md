@@ -1,4 +1,4 @@
-H2Ocoin integration/staging tree
+H2O Coin 
 ================================
 
 http://www.H2Ocoin.info
