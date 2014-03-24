@@ -14,10 +14,10 @@ What is H2Ocoin?
 
 H2Ocoin is a lite version of Bitcoin using scrypt-progressive-N as a proof-of-work algorithm.
 
-Algorithm: Scrypt-Progressive-N with optimized schedule
-Symbol: H2O
-Max Coins: 2 billion
-Block time: 60 seconds
+Algorithm: Scrypt-Progressive-N with optimized schedule.
+Symbol: H2O.
+Max Coins: 2 billion.
+Block time: 60 seconds.
 Block Rewards: 2000 coins per block for the first 30 days and 1,600 for the following 11 months.
 Decrease: After ~12 months OR block 525960 The payout will halve until it reaches 100 H2O per block.
 Difficulty Re-Target Time: From 1440: every block using Dark Gravity Wave algorithm.
